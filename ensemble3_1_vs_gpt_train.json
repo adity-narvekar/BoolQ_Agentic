@@ -1,0 +1,7 @@
+{
+  "total_questions": 515,
+  "correct_ensemble": 306,
+  "correct_gpt": 361,
+  "correct_ensemble_not_gpt": 74,
+  "correct_gpt_not_ensemble": 129
+}

@@ -1,0 +1,10 @@
+# Environment / secrets
+.env
+*.env
+env.env
+
+# Datasets
+datasets/
+
+# Papers / drafts
+Paper/

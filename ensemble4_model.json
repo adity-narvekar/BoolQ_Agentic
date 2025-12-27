@@ -1,0 +1,14 @@
+{
+  "train": {
+    "phi_pred": 728,
+    "gpt4o_mini_pred": 810,
+    "gpt41_mini_pred": 801,
+    "total_ensemble_wrong": 917
+  },
+  "valid": {
+    "phi_pred": 279,
+    "gpt4o_mini_pred": 301,
+    "gpt41_mini_pred": 276,
+    "total_ensemble_wrong": 331
+  }
+}

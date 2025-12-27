@@ -1,0 +1,19 @@
+﻿model,acc(train),acc(valid)
+GPT 4o (avg),0.9036,0.9065
+GPT 41,0.8871,0.8920
+Deepseek R1,0.8915,0.8964
+4o mini,0.8897,0.8941
+41 mini,0.8884,0.8917
+Phi,0.8959,0.8743
+Mistral NeMo,0.8315,0.8317
+LLaMA 8b,0.8362,0.8412
+"Ensemble 1 (phi, mistral, llama)",0.8675,0.8592
+"Ensemble 2 (phi, mistral, 4o mini)",0.8898,0.8858
+"Ensemble 3 (phi, mistral, llama, 4o mini, 41 mini)",0.8925,0.8896
+GPT 4o (1st),0.9039,0.9069
+GPT 4o (2nd),0.9034,0.9072
+GPT 4o (3rd),0.9036,0.9053
+Jamba Large,0.9103,0.9132
+LLaMA 70b,0.9104,0.9080
+LLaMA 405b,0.9025,0.9021
+"Ensemble 4 (4o mini, 41 mini, phi)",0.9026,0.8985

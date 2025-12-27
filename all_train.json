@@ -1,0 +1,71 @@
+{
+  "final accuracies": {
+    "GPT-4o": {
+      "accuracy": 0.9000425350914505,
+      "correct_count": 8464
+    },
+    "GPT-41": {
+      "accuracy": 0.885899617184177,
+      "correct_count": 8331
+    },
+    "DeepSeek R1": {
+      "accuracy": 0.8534170747285501,
+      "correct_count": 8017
+    },
+    "GPT-4o-mini": {
+      "accuracy": 0.8889716840536512,
+      "correct_count": 8351
+    },
+    "GPT-41-mini": {
+      "accuracy": 0.8881200766446669,
+      "correct_count": 8343
+    },
+    "Phi": {
+      "accuracy": 0.8826910794123909,
+      "correct_count": 8292
+    },
+    "Mistral NeMo": {
+      "accuracy": 0.7550564189908452,
+      "correct_count": 7093
+    },
+    "LLaMA 8B": {
+      "accuracy": 0.8331913987651692,
+      "correct_count": 7827
+    }
+  },
+  "flagged_indices": [
+    1414,
+    6028,
+    927,
+    2978,
+    6306,
+    7588,
+    7464,
+    937,
+    6442,
+    8104,
+    7848,
+    6701,
+    2352,
+    4017,
+    6713,
+    1465,
+    451,
+    7620,
+    5708,
+    4301,
+    7377,
+    5203,
+    8148,
+    8660,
+    1879,
+    3163,
+    989,
+    3551,
+    8032,
+    6370,
+    8297,
+    5616,
+    4594
+  ]
+}

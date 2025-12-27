@@ -1,0 +1,14 @@
+{
+  "train": {
+    "phi_pred": 794,
+    "mistral_pred": 1156,
+    "llama_pred": 1121,
+    "total_ensemble_wrong": 1257
+  },
+  "valid": {
+    "phi_pred": 320,
+    "mistral_pred": 406,
+    "llama_pred": 397,
+    "total_ensemble_wrong": 460
+  }
+}

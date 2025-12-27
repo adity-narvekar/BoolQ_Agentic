@@ -1,0 +1,17 @@
+{
+  "models": {
+    "Jamba Large": {
+      "accuracy": 0.9095646842427958,
+      "correct_count": 2967
+    },
+    "LLaMA 70B": {
+      "accuracy": 0.9080318822808093,
+      "correct_count": 2962
+    },
+    "LLaMA 405B": {
+      "accuracy": 0.9012875536480687,
+      "correct_count": 2940
+    }
+  },
+  "total_questions": 3262
+}
